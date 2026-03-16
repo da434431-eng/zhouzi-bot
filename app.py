@@ -14,7 +14,7 @@ st.markdown("""
 
 # --- KHỞI TẠO BỘ NÃO (Dán API KEY của bạn vào đây) ---
 # Lưu ý: Khi chạy thực tế trên Streamlit, mình sẽ dùng Secrets cho bảo mật.
-API_KEY = "ĐIỀN_MÃ_API_CỦA_BẠN_VÀO_ĐÂY" 
+API_KEY = "AIzaSyB8pEUZgUyBdHNp4lg9vYYS5xuc6TwziMU" 
 genai.configure(api_key=API_KEY)
 
 # --- THIẾT LẬP NHÂN VẬT ZHOUZI ---
